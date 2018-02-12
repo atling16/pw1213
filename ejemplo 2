@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>
+		
+	</title>
+</head>
+<body>
+     &ntilde; y la &Ntilde; &copy; <br>
+     Texto en una l&iacute;nea <br>
+     Texto en otra l&iacute;nea <br>
+     Esto es un p&aacute;rrafo
+     <p>
+     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+     quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+     consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+     cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+     proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+     <br>
+     <br>
+     Etiquetas b&aacute;sicas <br>
+     Las que no se usas <br>
+     <b>Negritas</b>
+     <i>It&aacute;licas</i>
+     <u>Subrayado</u>			
+     listas: <br>
+     listas ordenadas
+     <ol>
+     	<li>elemento 01</li>
+     	<li>elemento 02</li>
+     	<li>elemento 03</li>
+     	<li>elemento 04</li>
+     </ol>
+     lista desordenada <br>
+     <ul>
+     	<li>elemento 01</li>
+     	<li>elemento 02</li>
+     	<li>elemento 03</li>
+     	<li>elemento 04</li>
+     </ul>
+
+</body>
+</html>
