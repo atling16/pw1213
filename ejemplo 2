@@ -39,6 +39,18 @@
      	<li>elemento 03</li>
      	<li>elemento 04</li>
      </ul>
+     Tarea: Etiquetas basicas 
+     Im&aacute;genes <br>
+     <img src="img/mercy.png" alt="mercy">
+     <img src="https://cdn.vox-cdn.com/uploads/chorus_asset/file/9858305/OVR_WinterWonderland2017_005.png">
+     <br>
+     Enlaces <-- link <-- Anclas <--anchor
+     <a href="http://itculiacan.edu.mx" target="_blank">
+          Texto del enlace
+          
+     </a>
+     
+
 
 </body>
 </html>
