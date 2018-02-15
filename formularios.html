@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Formularios</title>
+</head>
+<body>
+     Formularo:Contenedor que sirve para encapsulas
+     metodos de entrada de datos al usuario. <br>
+     En el formulario se puede: <br>
+     <ol>
+     	<li>Capturar datos</li>
+     	<li>Validar lo que se ingresa</li>
+     	<li>Enviar a proceso</li>
+     	<li>Reiniciar la captura</li>
+
+
+     </ol>
+     <form action="procesa.html" method="post">
+      <input name="txtNumeroControl" type="text" placeholder ="n&uacute;mero de control" required>
+      <input type="number" name="txtPromedio">
+      <input name="txtClave" type="password" placeholder="Clave de acceso" required autofocus>
+      <input name="txtFecha" type="date" name="">
+      <input name="txtCorreo"type="email" name="">
+      <input name="" type="search" name="">
+      <!--Dispara la accion del form -->
+      <input type="submit" vaule="Enviar">
+      		<!-- Reinicia los input-->
+      <input type="reset" vaule="borrar">		 
+       <!-- simple boton -->
+      <input type="button" vaule="Enviar">
+
+     </form>
+</body>
+</html>
